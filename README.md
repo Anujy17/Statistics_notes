@@ -1,4 +1,4 @@
-#Statistics_notes
+# Statistics_notes
 Here i have uploaded statistics lectures notes from ineuron(by krish naik sir)
 ## Topics
 
