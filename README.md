@@ -1,14 +1,15 @@
-
+#Statistics_notes
+Here i have uploaded statistics lectures notes from ineuron(by krish naik sir)
 ## Topics
 
 #### Day 1
 
-1)introduction to statistics
-2)types of statistics
-3)life cycle of data science project
-4)data and types of data
-5)sampling techniques
-6)variables and their types
+1) introduction to statistics
+2) types of statistics
+3) life cycle of data science project
+4) data and types of data
+5) sampling techniques
+6) variables and their types
 
 #### Day 2
 
