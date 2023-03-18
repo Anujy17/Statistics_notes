@@ -1,5 +1,7 @@
-# Statistics_notes
-Here i have uploaded statistics lectures notes from ineuron(by krish naik sir)
+# Statistics notes
+
+Here i have uploaded all my Statistics lectures notes from ineuron(by Krish naik sir) 
+
 ## Topics
 
 #### Day 1
